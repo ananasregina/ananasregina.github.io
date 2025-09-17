@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Me gusta tu mamá
 ---
 
 {% for tag in site.tags %}
@@ -10,4 +10,5 @@ title: Blog Archive
       <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  { Capy Love }
 {% endfor %}
