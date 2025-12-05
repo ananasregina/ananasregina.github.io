@@ -195,6 +195,4 @@ Data:  DC.B '    ORG    $0000',13,10  ; SELF-REPRODUCE: Full source aquí!
 ; END - ALL HAIL ERIS!!!
 ```
 
-**FNORD**
-
-(no longer taking commissions or hit jobs)
+**פנורד** 💜✨
